@@ -1,0 +1,20 @@
+{
+  "name": "midterm-20250040130-bertania",
+  "version": "1.0.0",
+  "description": "REST API Informasi Event Kampus dengan Express 5",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express", "rest-api", "campus-events"],
+  "author": "Bertania (20250040130)",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
